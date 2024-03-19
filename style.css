@@ -29,7 +29,7 @@ header img{
     
 }
 .chois h2{
-    display: block;
+    display: flex;
     text-align: center;
 }
 main a{
